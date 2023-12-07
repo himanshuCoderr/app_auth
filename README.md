@@ -1,20 +1,21 @@
-app_auth_skillmate
+**app_auth_skillmate**
 
-Project Description: A web application for user authentication, allowing users to sign up and log in using email, username, and password. Built with MERN stack (MongoDB, Express.js, React.js, Node.js).
+**Project Description:**
+A web application for user authentication, allowing users to sign up and log in using email, username, and password. Built with MERN stack (MongoDB, Express.js, React.js, Node.js).
 
-Table of Contents
-*Project Overview
+**Table of Contents**
+*Project Overview 
 *Features
 *Technologies Used
 *Installation
 *Usage
 *Contributing
 
-Project Overview
+**Project Overview**
 
 This project is a user authentication app developed as part of an assignment. The app provides a user-friendly interface for sign-up and login functionality. The frontend is implemented using React.js and incorporates Material-UI (MUI) for a modern and responsive design. Axios is used for making HTTP requests, enabling seamless communication with the backend server.
 
-Features
+**Features**
 
 User Registration: Allows users to create an account by providing their email, username, and password.
 User Login: Existing users can log in using their credentials.
@@ -22,14 +23,14 @@ Responsive Design: Utilizes Material-UI components for a responsive and visually
 Secure Communication: Axios is employed for secure communication with the backend server.
 Assignment Specifics: Custom features or modifications related to the assignment requirements.
 
-Technologies Used
+**Technologies Used**
 
 React.js: A JavaScript library for building user interfaces.
 Material-UI (MUI): React components for faster and easier web development.
 Axios: A promise-based HTTP client for the browser and Node.js.
 Other Dependencies: List any other major libraries or dependencies used.
 
-Installation
+**Installation**c
 Clone the repository:
 
 * git clone https://github.com/your-username/frontend-repository.git
