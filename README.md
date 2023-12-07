@@ -37,7 +37,7 @@ This project is a user authentication app developed as part of an assignment. Th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/frontend-repository.git
+   git clone [https://github.com/your-username/frontend-repository.git](https://github.com/himanshuCoderr/app_auth_frontend.git)
    ```
 
 2. Navigate to the project directory:
