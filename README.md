@@ -4,12 +4,12 @@
 A web application for user authentication, allowing users to sign up and log in using email, username, and password. Built with MERN stack (MongoDB, Express.js, React.js, Node.js).
 
 **Table of Contents**
-*Project Overview 
-*Features 
-*Technologies Used
-*Installation
-*Usage
-*Contributing
+**Project Overview 
+Features 
+Technologies Used
+Installation
+Usage
+Contributing**
 
 **Project Overview**
 
