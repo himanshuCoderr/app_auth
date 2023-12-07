@@ -5,7 +5,7 @@ A web application for user authentication, allowing users to sign up and log in 
 
 **Table of Contents**
 *Project Overview 
-*Features
+*Features 
 *Technologies Used
 *Installation
 *Usage
