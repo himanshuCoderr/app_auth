@@ -1,6 +1,3 @@
-Certainly! Below is a sample README file for your frontend code. Feel free to customize it according to your project's specific details:
-
----
 
 # Project Name
 
